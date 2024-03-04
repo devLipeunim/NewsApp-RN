@@ -8,10 +8,10 @@
 
 ### on Andriod device
 
-#### exp://u.expo.dev/update/0b768f56-b1c0-46d6-b57f-5ff26ff2b816
+#### exp://u.expo.dev/update/50398507-ea02-4ec0-84fb-37b961e77203
 
 ### on iOS device
 
-#### exp://u.expo.dev/update/095820e9-3738-41f0-9259-d4501034e5dc
+#### exp://u.expo.dev/update/3528642b-9000-428c-965e-e1fb971fb0e1
 
 # Lipeunim 🚀🚀# NewsApp-RN
